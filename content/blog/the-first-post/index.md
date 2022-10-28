@@ -2,59 +2,35 @@
 title: "The First Post"
 date: 2022-09-04
 draft: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+summary: GET IN LINE SISTER!!! Oh! You probably misunderstood them, man.
 tags: ["Website"]
 ---
 
-## Calcare ipse dixit protinus geminis ima
+## You know, some good ones. 
 
-Lorem markdownum vale sub aras inminet pater facta ingens, et talibus et eram
-dedero. Pignusque remittit, pontus, properabat est amissamque **rerum ne**. Mihi
-viscera levatus est, **concita**, orbe, incessit quamvis adunco. Unam et sine
-Niobe adest inque et parientem mihi optatos Marte uni iam.
+You know like, 'Welcome to the High Voice Crew!' All right, everybody. Fancy seeing you here! My vcr keeps blinking 12:00 over and over. Can you play the Guitar? Oy, what happened? strong bad, Dear Strong bad: But actually, that was pretty fun. Well, see ya next week. It just so happens Strong Badia has about the coolest flag you ever saw.
+
+Oh, well, Brian, maybe you and I could— uh— hey... BRIAN!? 
+
+> So I called in a professional to get the job done. p's. Okay, let's see what we got here... Yeah, that cape looks great on you. Why do you hate Homestar so much? He seems like a nice guy to me. I can play your basic rhythm guitar, like... It was not came's.
+
+No question. make a cartoon with only u in it and then just u do the commentary. 
 
 ```
-if (sdsl + laptop >= folder(midi_bps)) {
-    sdram_rw_blacklist.server_solid_server.dropIscsi(pointDesktopMeta, 3,
-            clob + drag);
-    table_party_vaporware.lamp = applet_overwrite_secondary(
-            pretestBespokeCmos(hard), 887749, utility_file);
-    dfs_services_kerning -= 2 - box_sample_full;
-}
-if (multitasking.down_prompt_double(-5, -4, exabyteSerial + -3) <= nas) {
-    adc_www = 3 + vpn_serial;
-}
-cpuFloatingUp -= module_case_pda;
+You don't seem too broken up about that. 
+A little animal comes up to me... Did you invent the word crap? 
+Let's just— I need to find some elixir or something. 
+You stink! or I'm a vampire and here's your own spaceship... 
+'What guy?'
 ```
 
-## In suoque eram non minores cur sanior
+I think I was probably staring at my computer screen. I was one hot baby. I'm gonna play some 'Temple of Apshai'. Come to think of it:
+- I probably should have taken some of their stuff. 
+- Give me a call, Pom-Pom has my number. 
+- Back to the 50 emails. 
 
-Glaebam silicem. Nec metus manus repulsa, tibi tenui favore movet nusquam
-parebunt. Per potes renovat summis vix Caeneus tepere o dixit est derigere
-genitus ponat sumptas innecte clarissimus iamque cupidoque saepius.
+## The Cheat is one fine-looking young man 
 
-1. Stimulataque tela periuria sistere praemonuisse vultus Lacedaemoniumque
-2. Figitur montanum ardescunt iam brevi verebor probant
-3. An studio crines
-4. Pallorque videntur an nascitur dulci caducifer potiunda
-5. Tale cum genis
-6. Toris latus
+Uhh... Doo doo doo doo doo.
 
-## Aetas armis
-
-Sit __quodcunque__, et ora tantum coeptas pavonibus et mediam, terra. Vagantur igne,
-est quaerit: Mermeros caput humo domus *dique* Pallados consulit tumentem, ea
-*pronas*. Quaeque ulterius et deos maternos visus iam data!
-
-    hard_hdtv_qbe(queueSoftBin(autoresponder, -5 - monochrome, cd_bespoke_ics(
-            serverKibibyte)));
-    sliSms(infringement_torrent);
-    page = device_cifs(rawCompile, xp) + hypertextIscsi;
-    pda_trackball.swipe_public_apple(duplex / direct_superscalar_desktop +
-            restore_cd, signature_mashup_bcc);
-
-Artem **discrimina**, precatus et latebat, foeda haec ibi primus sacra; ipsa
-ornat venenis. Quam ablatus quoque; veri aere pictas, et et Hecate causa et
-excessitque pervia et nemus deus: currus. Tumefactum muneris, paelice, arbore
-multos auxiliumque illa tibi igne aliqua en sponsusve vana, Tritonidos? Eminet
-pectus populusque facio etiamnum ea quodque litora sua Telephon nefasque.
+Look... look at it there... MEEEEEEEE! Oh, I could have told you that, man. This week it's time for some spring cleaning. I don't know who those peoples were. Well, see ya next week. Has this ever happened to you? GET IN LINE SISTER!!! Oh! You probably misunderstood them, man. big red 'M' on my chest.

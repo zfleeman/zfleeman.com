@@ -1,5 +1,5 @@
 # Blog Posts
 
-Mauris et imperdiet dolor. Nam fringilla ligula id nibh finibus fringilla. Ut vitae felis bibendum, viverra lacus sit amet, volutpat urna.
+I've carefully set aside this time for checking my email. Oooh, duh doo doo doo, my email left me, duh doo doo... An email? I don't need this anymore! I think we're on the same page. Oh, my hit points are, like, inexcusable in this dungeon, man. Oh, Strong Sad. So what do you think, like, 50 bucks? The Cheat!
 
-Praesent congue ornare tellus ac laoreet. Proin ac porttitor eros, sit amet posuere eros. Fusce pulvinar rhoncus libero, sit amet scelerisque nibh vestibulum eget. Sed ultricies turpis malesuada ipsum tincidunt aliquam. Mauris sit amet finibus sem. Fusce nec ante at ligula posuere eleifend pulvinar ut turpis. Nulla a lectus tempus, consequat lorem et, suscipit dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id gravida lorem.f
+Whatever, man. I can make it on my own. You know, like, steal stuff... Strong Bad? You might as well just stick with Daniel over here. Mike, Bend Oregon. Roy. Okay, here we go.
