@@ -18,6 +18,10 @@ buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[imaging]
+  quality = 100
+  resampleFilter = 'Lanczos'
+
 [taxonomies]
   tag = "tags"
   category = "categories"

@@ -1,5 +1,5 @@
 # Blog Posts
 
-I've carefully set aside this time for checking my email. Oooh, duh doo doo doo, my email left me, duh doo doo... An email? I don't need this anymore! I think we're on the same page. Oh, my hit points are, like, inexcusable in this dungeon, man. Oh, Strong Sad. So what do you think, like, 50 bucks? The Cheat!
+There was a period of my life when writing for my personal blog was the most important thing in the world to me. Personal blogs seemed more common when the Internet was younger, and I want to see more of that innocence and vulnerability on the web.
 
-Whatever, man. I can make it on my own. You know, like, steal stuff... Strong Bad? You might as well just stick with Daniel over here. Mike, Bend Oregon. Roy. Okay, here we go.
+I have missed how writing in a public journal makes my brain feel active and creative. I'm creating this feed to exercise a part of my mind that has atrophied.

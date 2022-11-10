@@ -1,5 +1,11 @@
-Once again, I point the blame squarely at tight pants. Oh wait a minute, what's that on- are you around, clown? I think I was probably staring at my computer screen. And then, turn out the lights... DELTEATED! I do, I miss those days. You buffoon! Not so you could throw light switch raves! What's this?
+What started as an attempt to learn [Hugo](https://gohugo.io/) has resulted in the creation of my personal website. Thank you for visiting.
 
-> For behold... Prehaps! Marzipan is late. where? He just gave me the bird! Great, thank you. Whatever. It's the best.
+I am a data scientist turned software engineer in the Denver/Boulder, Colorado Metropolitan Area. I hold a [Master of Science in Business Intelligence and Analytics](https://www.rockhurst.edu/helzberg/msbia) from the Helzberg School of Management at Rockhurst University along with a [Bachelor of Science in Industrial and Manufacturing Systems Engineering](https://engineering.missouri.edu/departments/imse/) from the University of Missouri. I love to tinker and create.
 
-_Homestar Ipsum used for development filler text. Generate your own [here](http://homestar-ipsum.herokuapp.com/)._
+When I’m done being traditionally productive, I am probably running long distances, playing with my children, or working on some project involving video games. 
+
+### Personality Assessment Documents
+
+My former employers once paid for the staff to take personality tests. Here they are:
+- 2009 - [CliftonStrengths](https://www.strengthsquest.com/home.aspx) | [PDF](2009_strengthsquest.pdf)
+- 2015 - [How to Fascinate](https://www.howtofascinate.com/) | [PDF](2015_fascination_advantage.pdf)
