@@ -23,7 +23,7 @@ But wait, what's this? A scheduled vasectomy appeared out of nowhere at the end 
 ## Training Program
 [Hal Higdon](https://www.halhigdon.com/training-programs/half-marathon-training/intermediate-1-half-marathon/) has always been my go-to website for training schedules when preparing for my races. Other than the fact that I haven't looked at _any_ other race training schedules, I like that Hal's verbiage is straight-forward. The definitions for the activities on the schedule are detailed plainly on the same page, and the schedule itself looks nice when printed out and placed on your refrigerator door... Which is exactly what I did, because I had to make some slight adjustments.
 
-![](half_training.png)
+![](half_training.png "I love the hustle that this printout represents.")
 
 While this may be entirely too personal to get this... _personal_ in an introductory blog post, the fact that I started training for this race only a couple of weeks after my vasectomy played a significant role in my training. I started my training in the second week of this program. In addition to that delay, I also had to modify the miles as the days went on depending on how well my body was handling the recovery from my vasectomy. As it turns out, I was able to run with little to no pain after a couple of weeks. I'm not even sure lessening the mileage was necessary for recovery purposes, but it really helped me get back into _some_ sort of shape after sitting in my basement with extremely limited movement after the surgery. 
 
@@ -39,17 +39,17 @@ As a quick aside, I'd like to talk about my nutrition during the program. I didn
 ## The Race
 Race day was colder than I was used to during my training, but it didn't end up being that bad. The sun was out in full Colorado fashion, which helped my body temperature tremendously. I wore my usual running garb (Bombas running socks, Newton's shoes, running shorts, and a t-shirt), and I only had to add a thin Nike pullover shirt. Now, pretend that those were affiliate links and send me some money.
 
-![](strava.jpg)
+![](strava.jpg "I expected more from the Apple Watch Series 7's GPS accuracy.")
 
 As I mentioned earlier, I had run this race before in 2018, and the route didn't change at all. It starts off with several miles of an elevation decline, and the remainder of the race is climbing back up that elevation _and then some_. This didn't worry me as much in 2018, but it was freaking me out a little bit this year. I was confidently running more miles than I did in 2018, but my training routes this time around were much more flat. Was this going to be a problem?
 
 It was! I ran very well during the first half of the race (despite some residual knee pain from the previous Sunday's 12 mile run), but the second I hit the elevation gains, I was toast. I mean I ___completely___ hit a brick wall of exhaustion the second I got towards the top of that hill. My pace was consistent with finishing well below my 1:58 goal, but it was in those moments at the top of the hill where I started having some doubts. Zooming back down the other side of the reservoir that we climbed was fun -- I got to experience some form of speed again, but unfortunately that didn't last during the slight incline over the last two miles to the finish line. I ended up finishing the race in two hours, one minute, and twelve seconds.
 
-![](pace-v-elevation.png)
+![](pace-v-elevation.png "A very depressing graph.")
 
 2:01:12 is still a respectable time for a half marathon, and ultimately, I'm proud of it. But yes, it stung _quite_ a bit that I couldn't stick it to the 29-year-version of myself. We had my wife's family in town, and the weather was so nice that I was happy to have that time out of the house with people that I care about. There was also a Basset Hound in a costume at the finish line, which was awesome. I didn't ask him what his costume was, because he seemed busy. I wanted to get my picture taken with him, but it didn't happen. I snagged one with my wonderful family instead.
 
-![](spooky_fam.png)
+![](spooky_fam.png "Thank you for noticing my Power Drill Massacre shirt and telling me how cool I am.")
 
 ## What's Next?
 I'm still debating how long I'm going to rest after this race. When my energy levels plummeted after that hill, my form and posture went to hell, and I seemingly injured my left hip and my right knee. I ran four miles after eight days of no running and had mixed results. My knee wasn't happy, but my hip loosened up as the run went on. I'll probably ice and stretch my knee for another week, and try a new, much-reduced running routine. I'd also like to start some more strength training with like weights and stuff, but that has always been intimidating for me. I want to get into a mindless routine with strength training just like I have with running. Or would that be a bad thing because I'd have to buy a new keyboard every time I write a blog post? I'm assuming the stronger you get, the harder you type.
