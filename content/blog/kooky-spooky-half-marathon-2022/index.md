@@ -6,6 +6,7 @@ summary: I ran a lot for three months.
 ---
 
 ## A Brief History Lesson
+
 I have been a regular runner the majority of my adult life. I never had a good relationship with exercise in high school or college. Playing team sports didn't interest me, and I was pretty consumed by other extracurricular activities. After finishing my schooling, though, it became abundantly clear to me that my career and hobbies will keep me stationary for most of the day. So, in an effort to keep my heart healthy in my adult life (as well as maintain a body shape that I mostly enjoy), I started to exercise after college.
 
 Distance running wasn't my first activity that I tried, however. I swam laps at a local pool for a little more than a year until said pool was closed down for a couple of months for excessive maintenance. This is when I started to get into a better groove with running. I had never enjoyed running in gym classes -- anything more than a mile was like torture to me. But as an adult, I was able to approach it as more of a personal challenge than an obligation. I actually _wanted_ to get good at running because I couldn't think of a better way to work on my cardio fitness.
@@ -21,6 +22,7 @@ Since then, however, I haven't had the desire to train up for a half marathon. H
 But wait, what's this? A scheduled vasectomy appeared out of nowhere at the end of July? How would this complicate things?
 
 ## Training Program
+
 [Hal Higdon](https://www.halhigdon.com/training-programs/half-marathon-training/intermediate-1-half-marathon/) has always been my go-to website for training schedules when preparing for my races. Other than the fact that I haven't looked at _any_ other race training schedules, I like that Hal's verbiage is straight-forward. The definitions for the activities on the schedule are detailed plainly on the same page, and the schedule itself looks nice when printed out and placed on your refrigerator door... Which is exactly what I did, because I had to make some slight adjustments.
 
 ![](half_training.png "I love the hustle that this printout represents.")
@@ -34,9 +36,11 @@ Even though it is completely necessary, I really do not like tapering my running
 It was a painful, soggy way to end what was a really uplifting exercise routine. But hey, it's about the journey, not the destination, right?
 
 ### Nutrition
+
 As a quick aside, I'd like to talk about my nutrition during the program. I didn't change _much_, but I did start carbing up a little more before the longer runs starting at 9 miles. I'm not sure this helped anything, to be honest. Understanding how nutrition affects my runs is honestly doesn't strike my interest. I know that's short-sighted, and I _should_ care more about these types of things if I want to break personal records, but I lightly subscribe to the belief that your nutrition routine starts to hit a steady state when your body is put under this much stress. At the end of the day, I ate when I was hungry, I took a couple snake oil supplements to help with joint pain, and I regularly had a protein shake after each run. I know nothing about supplements, and I think you're supposed to ingest protein after you exercise to help muscle growth. I'm probably wrong -- I should really speak to a doctor before I do _any_ of this stuff. All I know is that my calf muscles have never looked better.
 
 ## The Race
+
 Race day was colder than I was used to during my training, but it didn't end up being that bad. The sun was out in full Colorado fashion, which helped my body temperature tremendously. I wore my usual running garb (Bombas running socks, Newton's shoes, running shorts, and a t-shirt), and I only had to add a thin Nike pullover shirt. Now, pretend that those were affiliate links and send me some money.
 
 ![](strava.jpg "I expected more from the Apple Watch Series 7's GPS accuracy.")
@@ -52,5 +56,6 @@ It was! I ran very well during the first half of the race (despite some residual
 ![](spooky_fam.png "Thank you for noticing my Power Drill Massacre shirt and telling me how cool I am.")
 
 ## What's Next?
+
 I'm still debating how long I'm going to rest after this race. When my energy levels plummeted after that hill, my form and posture went to hell, and I seemingly injured my left hip and my right knee. I ran four miles after eight days of no running and had mixed results. My knee wasn't happy, but my hip loosened up as the run went on. I'll probably ice and stretch my knee for another week, and try a new, much-reduced running routine. I'd also like to start some more strength training with like weights and stuff, but that has always been intimidating for me. I want to get into a mindless routine with strength training just like I have with running. Or would that be a bad thing because I'd have to buy a new keyboard every time I write a blog post? I'm assuming the stronger you get, the harder you type.
 
