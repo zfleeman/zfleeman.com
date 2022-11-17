@@ -24,7 +24,7 @@ If you're a fan of stealth and immersive sim video games, don't pass on Stay Out
 ## Video Captures
 
 I was so excited to stream the game that I didn't even unsaturate my camera. I look so red!
-<iframe src="https://player.twitch.tv/?video=1650346048&time=0h9m51s" frameborder="0" allowfullscreen="true" scrolling="no" height="320" width="100%"></iframe>
+<iframe src="https://player.twitch.tv/?video=1650346048&time=0h9m51s&parent=zfleeman.com" frameborder="0" allowfullscreen="true" scrolling="no" height="320" width="100%"></iframe>
 
 The grandmother character in the game is scary and annoying. It's best to get rid of her as soon as you can.
 {{< youtube E6EB2a94yu0 >}}

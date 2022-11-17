@@ -1,6 +1,6 @@
 ---
 title: "Starting a Hugo Blog"
-date: 2022-11-14T14:07:10-07:00
+date: 2022-11-07T14:07:10-07:00
 summary: Checking out this blogging thing. I hear it's gonna be big.
 tags: ['Website','Golang', 'Blogging', 'R']
 ---
