@@ -15,7 +15,7 @@ enableGitInfo = false
 buildDrafts = false
 buildFuture = false
 
-# googleAnalytics = "G-XXXXXXXXX"
+googleAnalytics = "G-QKJHZ6YQ9X"
 
 [imaging]
   quality = 100
