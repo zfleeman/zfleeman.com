@@ -10,13 +10,16 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
-# do this b/c it'd be cool
-enableGitInfo = true
+enableGitInfo = false
 
 buildDrafts = false
 buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
+
+[imaging]
+  quality = 100
+  resampleFilter = 'Lanczos'
 
 [taxonomies]
   tag = "tags"
