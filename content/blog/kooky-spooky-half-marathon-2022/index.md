@@ -51,7 +51,7 @@ It was! I ran very well during the first half of the race (despite some residual
 
 ![](pace-v-elevation.png "A very depressing graph.")
 
-2:01:12 is still a respectable time for a half marathon, and ultimately, I'm proud of it. But yes, it stung _quite_ a bit that I couldn't stick it to the 29-year-version of myself. We had my wife's family in town, and the weather was so nice that I was happy to have time out of the house with people that I care about. There was also a Basset Hound in a costume at the finish line, which was awesome. I didn't ask him what his costume was, because he seemed busy. I wanted to get my picture taken with him, but it didn't happen. I snagged one with my wonderful family instead.
+2:01:12 is still a respectable time for a half marathon, and ultimately, I'm proud of it. But yes, it stung _quite_ a bit that I couldn't stick it to the 29-year-version of myself. We had my wife's family in town, and the weather was so nice that I was happy to have time out of the house with people that I care about. There was also a Basset Hound in a costume at the finish line, which was awesome. I didn't ask him what his costume was, because he seemed busy. I wanted to get my picture taken with him, but it didn't happen, so I settled and snagged one with my wonderful family instead.
 
 ![](spooky_fam.png "Thank you for noticing my Power Drill Massacre shirt and telling me how cool I am.")
 

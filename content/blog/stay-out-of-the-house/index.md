@@ -15,6 +15,8 @@ I was worried that this game was going to be too similar to another Puppet Combo
 
 Even after playing the game for about 30 minutes, I wasn't convinced that this wasn't just a Nun Massacre re-skin. Some of the puzzle solutions were identical to Nun Massacre, and as I mentioned earlier, the items were hardly any different. However, I came to realize that Nun Massacre's game map was huge and arid in comparison to The Butcher's titular house, which is densely packed with puzzles and traps.
 
+![](all_alone.png "What an odd question.")
+
 The game ceases to be scary once you learn the house, which isn't a bad thing. Trying to solve the game's puzzles under the constant threat of attack by The Butcher keeps the tension high. I was always engaged and thinking about the 3D map that was forming in my head. Coming up with efficient paths around the house made me feel like a genius, and discovering new ways to escape a pursuit had me styling on this game after my 10 hours with it. Improvisation is encouraged, and there are several different ways to go about completing the game.
 
 There are four acts in this game. The prologue story, Night Shift, is best played only once. Working the late shift at a convenience store holds its fair share of scares, but you kind of just have to wait a long time before you're moved on to the main story's prologue. The House act takes up the majority of the play time, but the hidden fourth act of the game impressed me with how long it was as well -- it was almost as long as the house chapter.
