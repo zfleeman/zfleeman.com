@@ -5,7 +5,7 @@ summary: "When your fascination with networked cameras intersects with your feli
 tags: ['Python', 'Millie']
 ---
 
-I recently got back home to Colorado after visiting friends and family in the Kansas City metro for Thanksgiving. This was the longest that I have been away from our house in years. We in KC for seven days, and I couldn't help but to be worried sick about my cat, Millie Bean, the entire time.
+I recently got back home to Colorado after visiting friends and family in the Kansas City metro for Thanksgiving. This was the longest that I have been away from our house in years. We were in KC for seven days, and I couldn't help but to be worried sick about my cat, Millie Bean, the entire time.
 
 Obvious exaggerations aside, I was nervous about her being alone for that long without anybody in the house to monitor her litter box situation. Millie has had two notable potty accidents in our home, and they were all due to the fact that her litter box was not as clean as she would have liked. So, in addition to the cat sitter that we hired to empty her litter box every day, I decided that it was absolutely necessary to write my own email service to let me know whenever she went piddle.
 
