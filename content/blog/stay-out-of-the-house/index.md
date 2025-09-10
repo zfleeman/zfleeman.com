@@ -41,4 +41,4 @@ The second ending of the game is even better! More Spoilers!
 
 As is the case with independent games of this scale, they live and die by word of mouth as well as storefront and social media algorithms. If you do end up playing this on [Steam](https://store.steampowered.com/app/896520/Stay_Out_of_the_House/), and you enjoy it, leave a positive review.
 
-{{< tweet user="PuppetCombo" id="1589426360896086016">}}
+{{< x user="PuppetCombo" id="1589426360896086016">}}
