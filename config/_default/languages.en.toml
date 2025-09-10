@@ -17,7 +17,7 @@ title = "Zach Fleeman's Website"
 [params.author]
   name = "Zach Fleeman"
   email = "zfleeman@gmail.com"
-  image = "img/face.png"
+  image = "img/face.jpeg"
   imageQuality = 100
   headline = "Data. Software. Video games."
   bio = "Tall, but not _that_ tall."
