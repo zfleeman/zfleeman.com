@@ -1,3 +1,0 @@
-I am a data scientist turned software engineer in the Denver/Boulder, Colorado Metropolitan Area. I hold a [Master of Science in Business Intelligence and Analytics](https://www.rockhurst.edu/cbt/about-helzberg) from the Helzberg School of Management at Rockhurst University along with a [Bachelor of Science in Industrial and Manufacturing Systems Engineering](https://engineering.missouri.edu/departments/imse/) from the University of Missouri. I love to tinker and create.
-
-When I’m done being traditionally productive, I am probably running long distances, playing with my children, or working on some project involving video games. 
