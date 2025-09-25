@@ -1,6 +1,5 @@
 +++
-date = '2025-09-24T17:12:35-06:00'
-draft = true
+date = '2025-09-24T22:36:12-06:00'
 title = 'RetroArch Cloud Saves with an Rclone Docker Container'
 summary = 'A nifty cross-cloud storage utility can serve as a WebDav host for your RetroArch configurations and save files!'
 tags = ['retroarch','cloud sync','webdav','rclone','docker','emulation','save files','game saves','synology','nas','containerization','gaming','open source','cross platform','ios','windows','linux','configuration','tutorial','self-hosting','file sharing','subreddit','oracle cloud','object storage','flask','reverse proxy','technology','how-to','setup','guide','video games']
@@ -13,7 +12,7 @@ With the release of RetroArch 1.19.0 back in the spring of 2024, I began to mess
 
 However, this new feature wasn't as intuitive as I would have liked initially.
 
-The backend/protocol for cloud sync is WebDav, which is a more or less outdated HTTP protocol for managing files. I never really cared to learn that much about it, as I was able to find a Docker image, [bytemark/webdav](https://hub.docker.com/r/bytemark/webdav/), fairly quickly. I host all of my Docker containers on a Synology DS920+, which is my pride and joy. I love this thing. The speed at which I can get a website, Flask application, or some other free and open source software deployed and publicly available is astounding. I was able to get this service up and running, setting a username and password for security, but I found it to be not-so-stable, and it required a lot of extra work with my reverse proxy to handle the connection correctly.
+The backend/protocol for cloud sync is WebDav, which is a more or less outdated HTTP protocol for managing files. I never really cared to learn that much about it, as I was able to find a Docker image, [bytemark/webdav](https://hub.docker.com/r/bytemark/webdav/), fairly quickly. I host all of my Docker containers on a Synology DS920+, which is my pride and joy. I love this thing. The speed at which I can get a website, Flask application, or some other free and open source software deployed and publicly available is astounding. I was able to get a WebDav server up and running, setting a username and password for security, but I found it to be not-so-stable, and it required a lot of extra work with my reverse proxy to handle the connection correctly.
 
 ### Enter Rclone
 
