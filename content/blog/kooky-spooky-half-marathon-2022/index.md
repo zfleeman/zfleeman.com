@@ -1,9 +1,9 @@
----
-title: "Kooky Spooky Half Marathon 2022"
-date: 2022-10-30T11:01:00-07:00
-summary: I ran a lot for three months.
-tags: ['Family','Running']
----
++++
+title = 'Kooky Spooky Half Marathon 2022'
+date = '2022-10-30T11:01:00-07:00'
+summary = 'I ran a lot for three months.'
+tags = ['Family','Running']
++++
 
 ## A Brief History Lesson
 

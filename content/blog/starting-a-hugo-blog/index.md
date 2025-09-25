@@ -1,9 +1,9 @@
----
-title: "Starting a Hugo Blog"
-date: 2022-11-07T14:07:10-07:00
-summary: Checking out this blogging thing. I hear it's gonna be big.
-tags: ['Website','Golang', 'Blogging', 'R']
----
++++
+title = 'Starting a Hugo Blog'
+date = '2022-11-07T14:07:10-07:00'
+summary = "Checking out this blogging thing. I hear it's gonna be big."
+tags = ['Website','Golang', 'Blogging', 'R']
++++
 
 The death of the personal blog will always be a bummer to me. There was something nice about reading your friends' (or some other interesting person's) thoughts on a webpage that took even just a little bit of effort to create. Social networking websites seem to be having some tough times at the moment, but it is easy to see why they captivated more people. It was easier to share your life with your friends when it was more bite-sized and photo/video-driven -- the phrase "micro-blogging" enters my mind when I think about this shift in the early 2010s. But as the term "social networking" morphed into the nebulous phrase, "social media," we stopped sharing our lives with our friends and started horking down news videos and memes.
 
