@@ -1,9 +1,9 @@
----
-title: "Stay Out of the House"
-date: 2022-11-17T17:07:43-07:00
-summary: Puppet Combo finally released their new game, Stay Out of the House, on October 13th. Is this game worth your time, or should you stay out of Stay Out of the House? This is an incredible summary line.
-tags: ['Video Games', 'Puppet Combo']
----
++++
+title = 'Stay Out of the House'
+date = '2022-11-17T17:07:43-07:00'
+summary = 'Puppet Combo finally released their new game, Stay Out of the House, on October 13th. Is this game worth your time, or should you stay out of Stay Out of the House? This is an incredible summary line.'
+tags = ['Video Games', 'Puppet Combo']
++++
 
 If you've talked to me about video games recently, odds are that I've told you about one of my new favorite indie developers, Puppet Combo. They make low-poly, PS1-style horror games that scare the bejesus out of me. These games can all be acquired via Puppet Combo's [Patreon](https://www.patreon.com/puppetcombo) for a paltry $5.00. If you had any wondering why I'm so into this developer, just watch the [Power Drill Massacre teaser](https://www.youtube.com/watch?v=BX93EdS_64U), or the trailer for their newest game released on [Steam](https://store.steampowered.com/app/896520/Stay_Out_of_the_House/), Stay Out of the House.
 

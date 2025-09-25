@@ -1,9 +1,9 @@
----
-title: "Repurposing an Old Wi-Fi Camera Into a Motion-Sensitive Litter Box Cat Sitter"
-date: 2022-11-27T15:08:18-07:00
-summary: "When your fascination with networked cameras intersects with your feline-based separation anxiety, you get this write-up."
-tags: ['Python', 'Millie']
----
++++
+title = 'Repurposing an Old Wi-Fi Camera Into a Motion-Sensitive Litter Box Cat Sitter'
+date = '2022-11-27T15:08:18-07:00'
+summary = 'When your fascination with networked cameras intersects with your feline-based separation anxiety, you get this write-up.'
+tags = ['Python', 'Millie']
++++
 
 I recently got back home to Colorado after visiting friends and family in the Kansas City metro for Thanksgiving. This was the longest that I have been away from our house in years. We were in KC for seven days, and I couldn't help but to be worried sick about my cat, Millie Bean, the entire time.
 

@@ -1,16 +1,16 @@
----
-title: "About Me"
-showDate: false
-showAuthorBottom: false
-showAuthor: false
-showDateUpdated: false
-showEdit: false
-showReadingTime: false
-showWordCount: false
-showZenMode: false
-featureImage: "https://zfleeman.com/img/background.png"
-showTableOfContents: false
----
++++
+title = 'About Me'
+showDate = false
+showAuthorBottom = false
+showAuthor = false
+showDateUpdated = false
+showEdit = false
+showReadingTime = false
+showWordCount = false
+showZenMode = false
+featureImage = 'https://zfleeman.com/img/background.png'
+showTableOfContents = false
++++
 
 What began as an attempt to learn [Hugo](https://gohugo.io) led to the creation of this personal website. Thank you for visiting.
 

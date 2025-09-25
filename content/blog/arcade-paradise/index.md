@@ -1,9 +1,9 @@
----
-title: "Arcade Paradise is my 2022 Game of the Year"
-date: 2023-01-05T16:43:06-07:00
-summary: Get to work. Pick up trash. Do laundry. Play games.
-tags: ['Video Games', 'Review']
----
++++
+title = "Arcade Paradise is my 2022 Game of the Year"
+date = '2023-01-05T16:43:06-07:00'
+summary = 'Get to work. Pick up trash. Do laundry. Play games.'
+tags = ['Video Games', 'Review']
++++
 
 The only thing I wanted to do for a couple of weeks in December was to play Arcade Paradise. I had only heard of this game from Jeff Gerstmann's podcast. For months, he was claiming that it was one of the best games of the year, so I decided to snag it during the Steam fall sale.
 
