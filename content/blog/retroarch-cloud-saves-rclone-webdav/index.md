@@ -32,7 +32,27 @@ With this knowledge, I went straight to Rclone's Docker Hub page.
 
 ### Using Docker to Host a WebDav Server
 
+The `docker run` command below is all you need to host a WebDav server on your machine. Notice on line 5 that the `rclone serve webdav` statement is exactly the same as it is above. The `/data` path that follows it is the directory inside the container that will host your saves and configs, which we volume-mounted on line 3. Specifying a user/pass is recommended, and actually, it _might_ be required for RetroArch initialize a connection.
 
-- script
-- synology screenshots
-- it’s neat!
+```sh {linenos=true}
+docker run \
+  -p 8080:8080 \
+  -v /data:/data \
+  rclone/rclone:latest \
+  rclone serve webdav /data \
+  --addr :8080 \
+  --user webuser \
+  --pass secretpassword
+```
+
+Now, I could run that command after SSH-ing into my Synology, but because I've become a little spoiled with DSM's Container Manager, I just place the `rclone server webdav` statement in the entrypoint field.
+
+![](synology_rclone.png)
+
+### RetroArch Cloud Sync Settings
+
+After the container is running on your server, you just need to point your RetroArch install Cloud Sync settings to your server and enter your user/pass. Here is a screenshot of my settings.
+
+![](retroarch_webdav_cloud_sync_settings.png)
+
+I'm sure this setup is common knowledge, but I was very excited that I could use Rclone for a not-so-serious application, like passing my Zelda II save file between my phone, iPad, and Windows machine.
