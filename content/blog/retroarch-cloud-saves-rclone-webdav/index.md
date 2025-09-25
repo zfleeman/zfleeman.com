@@ -3,6 +3,7 @@ date = '2025-09-24T17:12:35-06:00'
 draft = true
 title = 'RetroArch Cloud Saves with an Rclone Docker Container'
 summary = 'A nifty cross-cloud storage utility can serve as a WebDav host for your RetroArch configurations and save files!'
+tags = ['retroarch','cloud sync','webdav','rclone','docker','emulation','save files','game saves','synology','nas','containerization','gaming','open source','cross platform','ios','windows','linux','configuration','tutorial','self-hosting','file sharing','subreddit','oracle cloud','object storage','flask','reverse proxy','technology','how-to','setup','guide','video games']
 +++
 
 RetroArch is a free, open-source frontend for emulators and other game engines. When you play games with RetroArch, you will generate save files for the game as well as emulation core configuration files. But what do you do if you want to use these saves on another computer, phone, or tablet? Sounds like you need a cloud sync solution!
