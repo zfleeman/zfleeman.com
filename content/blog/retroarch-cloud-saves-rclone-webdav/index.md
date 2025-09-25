@@ -5,16 +5,18 @@ title = 'RetroArch Cloud Saves with an Rclone Docker Container'
 summary = 'A nifty cross-cloud storage utility can serve as a WebDav host for your RetroArch configurations and save files!'
 +++
 
+RetroArch is a free, open-source frontend for emulators and other game engines. When you play games with RetroArch, you will generate save files for the game as well as emulation core configuration files. But what do you do if you want to use these saves on another computer, phone, or tablet? Sounds like you need a cloud sync solution!
+
 ### RetroArch and WebDav Cloud Saving
 With the release of RetroArch 1.19.0 back in the spring of 2024, I began to mess with its new-ish "Cloud Sync" feature. I've always thought that syncing your configurations and save files across different RetroArch installs was a desperately needed feature, so needless to say, I dove right in when I had the chance. My primary RetroArch machine is my Windows PC, which is where I play most of my video games. But with RetroArch being available on iOS, Cloud Syncing of saves and configuration files became a priority of mine. Cloud saving retro video game save files? Is there anything cooler?
 
-However, this new feature wasn't as intuitive as I would have liked initailly.
+However, this new feature wasn't as intuitive as I would have liked initially.
 
 The backend/protocol for cloud sync is WebDav, which is a more or less outdated HTTP protocol for managing files. I never really cared to learn that much about it, as I was able to find a Docker image, [bytemark/webdav](https://hub.docker.com/r/bytemark/webdav/), fairly quickly. I host all of my Docker containers on a Synology DS920+, which is my pride and joy. I love this thing. The speed at which I can get a website, Flask application, or some other free and open source software deployed and publicly available is astounding. I was able to get this service up and running, setting a username and password for security, but I found it to be not-so-stable, and it required a lot of extra work with my reverse proxy to handle the connection correctly.
 
 ### Enter Rclone
 
-Unsatisfied with bytemark's WebDav container, I started searching around a little bit more for common WebDav Docker images. While I didn't find any other offerings that were more popular than bytemark's, I did find a comment on the RetroArch subreddit that piqued my interest. A user was asking what everyone was using to host a WebDav server. Most people linked to the bytemark image, but one user commented by saing only, "rclone."
+Unsatisfied with bytemark's WebDav container, I started searching around a little bit more for common WebDav Docker images. While I didn't find any other offerings that were more popular than bytemark's, I did find a comment on the RetroArch subreddit that piqued my interest. A user was asking what everyone was using to host a WebDav server. Most people linked to the bytemark image, but one user commented by saying only, "rclone."
 
 Rclone? This is a tool that I've recently started using frequently at work -- it's a utility that helps standardize cloud storage get/put/list requests. I've found it incredibly helpful when copying data between regions in Oracle Cloud Infrastructure's Object Storage. Complex CLI commands become simple `rclone` statements.
 
@@ -45,7 +47,7 @@ docker run \
   --pass secretpassword
 ```
 
-Now, I could run that command after SSH-ing into my Synology, but because I've become a little spoiled with DSM's Container Manager, I just place the `rclone server webdav` statement in the entrypoint field.
+Now, I could run that command after SSH-ing into my Synology, but because I've become a little spoiled with DSM's Container Manager, I just place the `rclone serve webdav` statement in the entrypoint field.
 
 ![](synology_rclone.png)
 
