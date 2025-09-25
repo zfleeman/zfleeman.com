@@ -39,7 +39,7 @@ The `docker run` command below is all you need to host a WebDav server on your m
 ```sh {linenos=true}
 docker run \
   -p 8080:8080 \
-  -v /data:/data \
+  -v /path/to/your/retroarch/saves:/data \
   rclone/rclone:latest \
   rclone serve webdav /data \
   --addr :8080 \
